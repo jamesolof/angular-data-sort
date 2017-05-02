@@ -1,14 +1,22 @@
 {
   "name": "seahawkdata",
+  "authors": [
+    "james olof <jamesschro@gmail.com>"
+  ],
   "description": "",
-  "main": "index.js",
-  "license": "ISC",
+  "main": "",
+  "license": "MIT",
   "homepage": "",
   "ignore": [
     "**/.*",
     "node_modules",
     "bower_components",
+    "src/lib",
     "test",
     "tests"
-  ]
+],
+  "dependencies": {
+    "angular": "^1.6.4",
+    "bootstrap": "^3.3.7"
+  }
 }

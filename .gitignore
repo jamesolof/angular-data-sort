@@ -1,6 +1,6 @@
 # Third Party Files
 node_modules
-**/wwwroot/lib
+**/src/lib
 
 
 # Build Artifact Files

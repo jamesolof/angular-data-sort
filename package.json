@@ -1,11 +1,21 @@
 {
   "name": "seahawkdata",
   "version": "1.0.0",
-  "description": "",
+  "description": "angular/typescript",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "tsc:w": "tsc -w",
+    "lite": "lite-server",
+    "start": "concurrently \"npm run tsc:w\" \"npm run lite\" "
+  },
+  "repository": {
+    "type": "git"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "@types/angular": "^1.6.16",
+    "concurrently": "^3.4.0",
+    "lite-server": "^2.3.0"
+  }
 }
