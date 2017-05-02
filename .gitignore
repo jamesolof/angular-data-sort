@@ -10,3 +10,4 @@ obj
 *.js
 *.lock.json
 *.js.map
+*.swp

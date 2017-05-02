@@ -1,4 +1,12 @@
+body{
+  padding-top: 50px;
+}
+
 .NumButton{
   width: 80px;
   height: 50px;
+}
+
+#Tabley{
+  padding: 30px;
 }

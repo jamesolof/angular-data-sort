@@ -1,0 +1,551 @@
+[
+    {
+        "number": "--",
+        "playerName": "Sam Adams",
+        "position": "DT",
+        "g": "12",
+        "gs": "7",
+        "birthday": "1973-06-13",
+        "college": "Texas A&M"
+    },
+    {
+        "number": "--",
+        "playerName": "James Atkins",
+        "position": "OT",
+        "g": "4",
+        "gs": "2",
+        "birthday": "1970-01-28",
+        "college": "Southwestern Louisiana"
+    },
+    {
+        "number": "--",
+        "playerName": "Howard Ballard",
+        "position": "OT",
+        "g": "16",
+        "gs": "16",
+        "birthday": "1963-11-03",
+        "college": "Alabama A&M"
+    },
+    {
+        "number": "--",
+        "playerName": "Michael Bates",
+        "position": "WR",
+        "g": "15",
+        "gs": "0",
+        "birthday": "1969-12-19",
+        "college": "Arizona"
+    },
+    {
+        "number": "--",
+        "playerName": "Jay Bellamy",
+        "position": "DB",
+        "g": "3",
+        "gs": "0",
+        "birthday": "1972-07-08",
+        "college": "Rutgers"
+    },
+    {
+        "number": "--",
+        "playerName": "Duane Bickett",
+        "position": "LB",
+        "g": "7",
+        "gs": "1",
+        "birthday": "1962-12-01",
+        "college": "Southern California"
+    },
+    {
+        "number": "--",
+        "playerName": "Robert Blackmon",
+        "position": "DB",
+        "g": "15",
+        "gs": "15",
+        "birthday": "1967-05-12",
+        "college": "Baylor"
+    },
+    {
+        "number": "--",
+        "playerName": "Jeff Blackshear",
+        "position": "OG",
+        "g": "16",
+        "gs": "16",
+        "birthday": "1969-03-29",
+        "college": "Northeast Louisiana"
+    },
+    {
+        "number": "--",
+        "playerName": "Brian Blades",
+        "position": "WR",
+        "g": "16",
+        "gs": "16",
+        "birthday": "1965-07-24",
+        "college": "Miami"
+    },
+    {
+        "number": "--",
+        "playerName": "David Brandon",
+        "position": "LB",
+        "g": "13",
+        "gs": "0",
+        "birthday": "1965-02-09",
+        "college": "Memphis"
+    },
+    {
+        "number": "--",
+        "playerName": "Tony Brown",
+        "position": "DB",
+        "g": "13",
+        "gs": "5",
+        "birthday": "1970-05-15",
+        "college": "Fresno State"
+    },
+    {
+        "number": "--",
+        "playerName": "Beno Bryant",
+        "position": "RB",
+        "g": "2",
+        "gs": "0",
+        "birthday": "1971-01-01",
+        "college": "Washington"
+    },
+    {
+        "number": "--",
+        "playerName": "Carlester Crumpler",
+        "position": "TE",
+        "g": "9",
+        "gs": "4",
+        "birthday": "1971-09-05",
+        "college": "East Carolina"
+    },
+    {
+        "number": "--",
+        "playerName": "Ray Donaldson",
+        "position": "C",
+        "g": "16",
+        "gs": "16",
+        "birthday": "1958-05-18",
+        "college": "Georgia"
+    },
+    {
+        "number": "--",
+        "playerName": "Forey Duckett",
+        "position": "DB",
+        "g": "2",
+        "gs": "0",
+        "birthday": "1970-02-05",
+        "college": "Nevada"
+    },
+    {
+        "number": "--",
+        "playerName": "Ferrell Edmunds",
+        "position": "TE",
+        "g": "7",
+        "gs": "7",
+        "birthday": "1965-04-16",
+        "college": "Maryland"
+    },
+    {
+        "number": "--",
+        "playerName": "Antonio Edwards",
+        "position": "DE",
+        "g": "15",
+        "gs": "14",
+        "birthday": "1970-03-10",
+        "college": "Valdosta State"
+    },
+    {
+        "number": "--",
+        "playerName": "Mike Frier",
+        "position": "DT",
+        "g": "3",
+        "gs": "0",
+        "birthday": "1969-03-20",
+        "college": "Appalachian State"
+    },
+    {
+        "number": "--",
+        "playerName": "Stan Gelbaugh",
+        "position": "QB",
+        "g": "1",
+        "gs": "0",
+        "birthday": "1962-12-04",
+        "college": "Maryland"
+    },
+    {
+        "number": "--",
+        "playerName": "Carlton Gray",
+        "position": "DB",
+        "g": "11",
+        "gs": "11",
+        "birthday": "1971-06-26",
+        "college": "UCLA"
+    },
+    {
+        "number": "--",
+        "playerName": "Paul Green",
+        "position": "TE",
+        "g": "16",
+        "gs": "11",
+        "birthday": "1966-10-08",
+        "college": "Southern California"
+    },
+    {
+        "number": "--",
+        "playerName": "Ronnie Harris",
+        "position": "WR",
+        "g": "1",
+        "gs": "0",
+        "birthday": "1970-06-04",
+        "college": "Oregon"
+    },
+    {
+        "number": "--",
+        "playerName": "Bill Hitchcock",
+        "position": "OG",
+        "g": "5",
+        "gs": "5",
+        "birthday": "1965-08-26",
+        "college": "Purdue"
+    },
+    {
+        "number": "--",
+        "playerName": "Patrick Hunter",
+        "position": "DB",
+        "g": "5",
+        "gs": "5",
+        "birthday": "1964-10-24",
+        "college": "Nevada"
+    },
+    {
+        "number": "--",
+        "playerName": "Tracy Johnson",
+        "position": "RB",
+        "g": "16",
+        "gs": "10",
+        "birthday": "1966-11-29",
+        "college": "Clemson"
+    },
+    {
+        "number": "--",
+        "playerName": "Trey Junkin",
+        "position": "TE",
+        "g": "16",
+        "gs": "0",
+        "birthday": "1961-01-23",
+        "college": "Louisiana Tech"
+    },
+    {
+        "number": "--",
+        "playerName": "John Kasay",
+        "position": "K",
+        "g": "16",
+        "gs": "0",
+        "birthday": "1969-10-27",
+        "college": "Georgia"
+    },
+    {
+        "number": "--",
+        "playerName": "Mike Keim",
+        "position": "OT",
+        "g": "16",
+        "gs": "0",
+        "birthday": "1965-11-12",
+        "college": "Brigham Young"
+    },
+    {
+        "number": "--",
+        "playerName": "Cortez Kennedy",
+        "position": "DT",
+        "g": "16",
+        "gs": "16",
+        "birthday": "1968-08-23",
+        "college": "Miami"
+    },
+    {
+        "number": "--",
+        "playerName": "Dion Lambert",
+        "position": "DB",
+        "g": "1",
+        "gs": "1",
+        "birthday": "1969-02-12",
+        "college": "UCLA"
+    },
+    {
+        "number": "--",
+        "playerName": "Kelvin Martin",
+        "position": "WR",
+        "g": "16",
+        "gs": "15",
+        "birthday": "1965-05-14",
+        "college": "Boston College"
+    },
+    {
+        "number": "--",
+        "playerName": "Kevin Mawae",
+        "position": "C",
+        "g": "14",
+        "gs": "11",
+        "birthday": "1971-01-23",
+        "college": "Louisiana State"
+    },
+    {
+        "number": "--",
+        "playerName": "Dave McCloughan",
+        "position": "DB",
+        "g": "13",
+        "gs": "2",
+        "birthday": "1966-11-20",
+        "college": "Colorado"
+    },
+    {
+        "number": "--",
+        "playerName": "Michael McCrary",
+        "position": "DE",
+        "g": "16",
+        "gs": "0",
+        "birthday": "1970-07-07",
+        "college": "Wake Forest"
+    },
+    {
+        "number": "--",
+        "playerName": "Dan McGwire",
+        "position": "QB",
+        "g": "7",
+        "gs": "3",
+        "birthday": "1967-12-18",
+        "college": "San Diego State"
+    },
+    {
+        "number": "--",
+        "playerName": "James McKnight",
+        "position": "WR",
+        "g": "2",
+        "gs": "0",
+        "birthday": "1972-06-17",
+        "college": "Liberty"
+    },
+    {
+        "number": "--",
+        "playerName": "Rick Mirer",
+        "position": "QB",
+        "g": "13",
+        "gs": "13",
+        "birthday": "1970-03-19",
+        "college": "Notre Dame"
+    },
+    {
+        "number": "--",
+        "playerName": "Joseph Nash",
+        "position": "DT",
+        "g": "16",
+        "gs": "15",
+        "birthday": "1960-10-11",
+        "college": "Boston College"
+    },
+    {
+        "number": "--",
+        "playerName": "Rufus Porter",
+        "position": "LB",
+        "g": "16",
+        "gs": "15",
+        "birthday": "1965-05-18",
+        "college": "Southern"
+    },
+    {
+        "number": "--",
+        "playerName": "Ray Roberts",
+        "position": "OT",
+        "g": "14",
+        "gs": "14",
+        "birthday": "1969-06-03",
+        "college": "Virginia"
+    },
+    {
+        "number": "--",
+        "playerName": "Eugene Robinson",
+        "position": "DB",
+        "g": "14",
+        "gs": "14",
+        "birthday": "1963-05-28",
+        "college": "Colgate"
+    },
+    {
+        "number": "--",
+        "playerName": "Rafael Robinson",
+        "position": "DB",
+        "g": "16",
+        "gs": "1",
+        "birthday": "1969-06-19",
+        "college": "Wisconsin"
+    },
+    {
+        "number": "--",
+        "playerName": "Tyrone Rodgers",
+        "position": "DT",
+        "g": "5",
+        "gs": "0",
+        "birthday": "1969-04-27",
+        "college": "Washington"
+    },
+    {
+        "number": "--",
+        "playerName": "Michael Sinclair",
+        "position": "DE",
+        "g": "12",
+        "gs": "2",
+        "birthday": "1968-01-31",
+        "college": "Eastern New Mexico"
+    },
+    {
+        "number": "--",
+        "playerName": "Lamar Smith",
+        "position": "RB",
+        "g": "2",
+        "gs": "0",
+        "birthday": "1970-11-29",
+        "college": "Houston"
+    },
+    {
+        "number": "--",
+        "playerName": "Steve Smith",
+        "position": "RB",
+        "g": "16",
+        "gs": "0",
+        "birthday": "1964-08-30",
+        "college": "Penn State"
+    },
+    {
+        "number": "--",
+        "playerName": "Del Speer",
+        "position": "DB",
+        "g": "1",
+        "gs": "0",
+        "birthday": "1970-02-01",
+        "college": "Florida"
+    },
+    {
+        "number": "--",
+        "playerName": "Bob Spitulski",
+        "position": "LB",
+        "g": "16",
+        "gs": "1",
+        "birthday": "1969-09-10",
+        "college": "Central Florida"
+    },
+    {
+        "number": "--",
+        "playerName": "Rod Stephens",
+        "position": "LB",
+        "g": "16",
+        "gs": "16",
+        "birthday": "1966-06-14",
+        "college": "Georgia Tech"
+    },
+    {
+        "number": "--",
+        "playerName": "Mack Strong",
+        "position": "RB",
+        "g": "8",
+        "gs": "1",
+        "birthday": "1971-09-11",
+        "college": "Georgia"
+    },
+    {
+        "number": "--",
+        "playerName": "Terry Taylor",
+        "position": "DB",
+        "g": "5",
+        "gs": "3",
+        "birthday": "1961-07-18",
+        "college": "Southern Illinois"
+    },
+    {
+        "number": "--",
+        "playerName": "Robb Thomas",
+        "position": "WR",
+        "g": "16",
+        "gs": "1",
+        "birthday": "1966-03-29",
+        "college": "Oregon State"
+    },
+    {
+        "number": "--",
+        "playerName": "Joe Tofflemire",
+        "position": "C",
+        "g": "1",
+        "gs": "0",
+        "birthday": "1965-07-07",
+        "college": "Arizona"
+    },
+    {
+        "number": "--",
+        "playerName": "Rick Tuten",
+        "position": "P",
+        "g": "16",
+        "gs": "0",
+        "birthday": "1965-01-05",
+        "college": "Florida State"
+    },
+    {
+        "number": "--",
+        "playerName": "Jon Vaughn",
+        "position": "RB",
+        "g": "9",
+        "gs": "0",
+        "birthday": "1970-03-12",
+        "college": "Michigan"
+    },
+    {
+        "number": "--",
+        "playerName": "Chris Warren",
+        "position": "RB",
+        "g": "16",
+        "gs": "15",
+        "birthday": "1967-01-24",
+        "college": "Ferrum"
+    },
+    {
+        "number": "--",
+        "playerName": "Terrence Warren",
+        "position": "WR",
+        "g": "14",
+        "gs": "0",
+        "birthday": "1969-08-02",
+        "college": "Hampton"
+    },
+    {
+        "number": "--",
+        "playerName": "Orlando Watters",
+        "position": "DB",
+        "g": "16",
+        "gs": "8",
+        "birthday": "1971-10-26",
+        "college": "Arkansas"
+    },
+    {
+        "number": "--",
+        "playerName": "Dean Wells",
+        "position": "LB",
+        "g": "15",
+        "gs": "0",
+        "birthday": "1970-07-20",
+        "college": "Kentucky"
+    },
+    {
+        "number": "--",
+        "playerName": "Brent Williams",
+        "position": "DE",
+        "g": "10",
+        "gs": "9",
+        "birthday": "1964-10-23",
+        "college": "Toledo"
+    },
+    {
+        "number": "--",
+        "playerName": "Terry Wooden",
+        "position": "LB",
+        "g": "16",
+        "gs": "15",
+        "birthday": "1967-01-14",
+        "college": "Syracuse"
+    }
+]

@@ -1,0 +1,488 @@
+[
+    {
+        "number": "--",
+        "playerName": "Edwin Bailey",
+        "position": "OG",
+        "g": "16",
+        "gs": "16",
+        "birthday": "1959-05-15",
+        "college": "South Carolina State"
+    },
+    {
+        "number": "--",
+        "playerName": "Jon Borchardt",
+        "position": "OG",
+        "g": "13",
+        "gs": "0",
+        "birthday": "1957-08-13",
+        "college": "Montana State"
+    },
+    {
+        "number": "--",
+        "playerName": "Dave Brown",
+        "position": "DB",
+        "g": "16",
+        "gs": "16",
+        "birthday": "1953-01-16",
+        "college": "Michigan"
+    },
+    {
+        "number": "--",
+        "playerName": "Jeff Bryant",
+        "position": "DE",
+        "g": "16",
+        "gs": "16",
+        "birthday": "1960-05-22",
+        "college": "Clemson"
+    },
+    {
+        "number": "--",
+        "playerName": "Blair Bush",
+        "position": "C",
+        "g": "16",
+        "gs": "16",
+        "birthday": "1956-11-25",
+        "college": "Washington"
+    },
+    {
+        "number": "--",
+        "playerName": "Keith Butler",
+        "position": "LB",
+        "g": "16",
+        "gs": "16",
+        "birthday": "1956-05-16",
+        "college": "Memphis"
+    },
+    {
+        "number": "--",
+        "playerName": "Ray Butler",
+        "position": "WR",
+        "g": "2",
+        "gs": "0",
+        "birthday": "1956-06-28",
+        "college": "Southern California"
+    },
+    {
+        "number": "--",
+        "playerName": "Jimmy Colquitt",
+        "position": "P",
+        "g": "2",
+        "gs": "0",
+        "birthday": "1963-01-17",
+        "college": "Tennessee"
+    },
+    {
+        "number": "--",
+        "playerName": "Bob Cryder",
+        "position": "OG",
+        "g": "15",
+        "gs": "15",
+        "birthday": "1956-09-07",
+        "college": "Alabama"
+    },
+    {
+        "number": "--",
+        "playerName": "Dan Doornink",
+        "position": "RB",
+        "g": "6",
+        "gs": "1",
+        "birthday": "1956-02-01",
+        "college": "Washington State"
+    },
+    {
+        "number": "--",
+        "playerName": "Kenny Easley",
+        "position": "DB",
+        "g": "13",
+        "gs": "13",
+        "birthday": "1959-01-15",
+        "college": "UCLA"
+    },
+    {
+        "number": "--",
+        "playerName": "Randy Edwards",
+        "position": "DE",
+        "g": "16",
+        "gs": "0",
+        "birthday": "1961-03-09",
+        "college": "Alabama"
+    },
+    {
+        "number": "--",
+        "playerName": "Ron Essink",
+        "position": "OT",
+        "g": "12",
+        "gs": "12",
+        "birthday": "1958-07-30",
+        "college": "Grand Valley State"
+    },
+    {
+        "number": "--",
+        "playerName": "Dave Finzer",
+        "position": "P",
+        "g": "12",
+        "gs": "0",
+        "birthday": "1959-02-03",
+        "college": "DePauw"
+    },
+    {
+        "number": "--",
+        "playerName": "Byron Franklin",
+        "position": "WR",
+        "g": "13",
+        "gs": "0",
+        "birthday": "1958-09-04",
+        "college": "Auburn"
+    },
+    {
+        "number": "--",
+        "playerName": "Greg Gaines",
+        "position": "LB",
+        "g": "16",
+        "gs": "0",
+        "birthday": "1958-10-16",
+        "college": "Tennessee"
+    },
+    {
+        "number": "--",
+        "playerName": "Gale Gilbert",
+        "position": "QB",
+        "g": "9",
+        "gs": "0",
+        "birthday": "1961-12-20",
+        "college": "California"
+    },
+    {
+        "number": "--",
+        "playerName": "Jacob Green",
+        "position": "DE",
+        "g": "16",
+        "gs": "16",
+        "birthday": "1957-01-21",
+        "college": "Texas A&M"
+    },
+    {
+        "number": "--",
+        "playerName": "Danny Greene",
+        "position": "WR",
+        "g": "4",
+        "gs": "0",
+        "birthday": "1961-12-26",
+        "college": "Washington"
+    },
+    {
+        "number": "--",
+        "playerName": "Andre Hardy",
+        "position": "RB",
+        "g": "3",
+        "gs": "1",
+        "birthday": "1961-11-28",
+        "college": "St. Mary's (CA)"
+    },
+    {
+        "number": "--",
+        "playerName": "John Harris",
+        "position": "DB",
+        "g": "16",
+        "gs": "16",
+        "birthday": "1956-06-13",
+        "college": "Arizona State"
+    },
+    {
+        "number": "--",
+        "playerName": "David Hughes",
+        "position": "RB",
+        "g": "12",
+        "gs": "10",
+        "birthday": "1959-06-01",
+        "college": "Boise State"
+    },
+    {
+        "number": "--",
+        "playerName": "Michael Jackson",
+        "position": "LB",
+        "g": "16",
+        "gs": "16",
+        "birthday": "1957-07-15",
+        "college": "Washington"
+    },
+    {
+        "number": "--",
+        "playerName": "Terry Jackson",
+        "position": "DB",
+        "g": "16",
+        "gs": "0",
+        "birthday": "1955-12-09",
+        "college": "San Diego State"
+    },
+    {
+        "number": "--",
+        "playerName": "Norm Johnson",
+        "position": "K",
+        "g": "16",
+        "gs": "0",
+        "birthday": "1960-05-31",
+        "college": "UCLA"
+    },
+    {
+        "number": "--",
+        "playerName": "John Kaiser",
+        "position": "LB",
+        "g": "16",
+        "gs": "0",
+        "birthday": "1962-06-06",
+        "college": "Arizona"
+    },
+    {
+        "number": "--",
+        "playerName": "Kani Kauahi",
+        "position": "C",
+        "g": "16",
+        "gs": "0",
+        "birthday": "1959-09-06",
+        "college": "Hawaii"
+    },
+    {
+        "number": "--",
+        "playerName": "Reggie Kinlaw",
+        "position": "DT",
+        "g": "16",
+        "gs": "0",
+        "birthday": "1957-01-09",
+        "college": "Oklahoma"
+    },
+    {
+        "number": "--",
+        "playerName": "Dave Krieg",
+        "position": "QB",
+        "g": "16",
+        "gs": "16",
+        "birthday": "1958-10-20",
+        "college": "Milton"
+    },
+    {
+        "number": "--",
+        "playerName": "Eric Lane",
+        "position": "RB",
+        "g": "16",
+        "gs": "3",
+        "birthday": "1959-01-06",
+        "college": "Brigham Young"
+    },
+    {
+        "number": "--",
+        "playerName": "Steve Largent",
+        "position": "WR",
+        "g": "16",
+        "gs": "16",
+        "birthday": "1954-09-28",
+        "college": "Tulsa"
+    },
+    {
+        "number": "--",
+        "playerName": "Sam Merriman",
+        "position": "LB",
+        "g": "14",
+        "gs": "0",
+        "birthday": "1961-05-05",
+        "college": "Idaho"
+    },
+    {
+        "number": "--",
+        "playerName": "Bryan Millard",
+        "position": "OG",
+        "g": "16",
+        "gs": "9",
+        "birthday": "1960-12-02",
+        "college": "Texas"
+    },
+    {
+        "number": "--",
+        "playerName": "Randall Morris",
+        "position": "RB",
+        "g": "16",
+        "gs": "0",
+        "birthday": "1961-04-22",
+        "college": "Tennessee"
+    },
+    {
+        "number": "--",
+        "playerName": "Paul Moyer",
+        "position": "DB",
+        "g": "11",
+        "gs": "3",
+        "birthday": "1961-07-26",
+        "college": "Arizona State"
+    },
+    {
+        "number": "--",
+        "playerName": "Joseph Nash",
+        "position": "DT",
+        "g": "16",
+        "gs": "16",
+        "birthday": "1960-10-11",
+        "college": "Boston College"
+    },
+    {
+        "number": "--",
+        "playerName": "Rick Parros",
+        "position": "RB",
+        "g": "4",
+        "gs": "0",
+        "birthday": "1958-06-14",
+        "college": "Utah State"
+    },
+    {
+        "number": "--",
+        "playerName": "Bob Pratt",
+        "position": "OG",
+        "g": "12",
+        "gs": "12",
+        "birthday": "1951-05-25",
+        "college": "North Carolina"
+    },
+    {
+        "number": "--",
+        "playerName": "Eugene Robinson",
+        "position": "DB",
+        "g": "16",
+        "gs": "0",
+        "birthday": "1963-05-28",
+        "college": "Colgate"
+    },
+    {
+        "number": "--",
+        "playerName": "Shelton Robinson",
+        "position": "LB",
+        "g": "15",
+        "gs": "3",
+        "birthday": "1960-09-14",
+        "college": "North Carolina"
+    },
+    {
+        "number": "--",
+        "playerName": "Dan Ross",
+        "position": "TE",
+        "g": "10",
+        "gs": "5",
+        "birthday": "1957-02-09",
+        "college": "Northeastern"
+    },
+    {
+        "number": "--",
+        "playerName": "Rick Sanford",
+        "position": "DB",
+        "g": "5",
+        "gs": "0",
+        "birthday": "1957-01-09",
+        "college": "South Carolina"
+    },
+    {
+        "number": "--",
+        "playerName": "Bruce Scholtz",
+        "position": "LB",
+        "g": "16",
+        "gs": "16",
+        "birthday": "1958-09-26",
+        "college": "Texas"
+    },
+    {
+        "number": "--",
+        "playerName": "Keith Simpson",
+        "position": "DB",
+        "g": "15",
+        "gs": "0",
+        "birthday": "1956-03-09",
+        "college": "Memphis"
+    },
+    {
+        "number": "--",
+        "playerName": "Paul Skansi",
+        "position": "WR",
+        "g": "12",
+        "gs": "0",
+        "birthday": "1960-01-11",
+        "college": "Washington"
+    },
+    {
+        "number": "--",
+        "playerName": "Terry Taylor",
+        "position": "DB",
+        "g": "16",
+        "gs": "16",
+        "birthday": "1961-07-18",
+        "college": "Southern Illinois"
+    },
+    {
+        "number": "--",
+        "playerName": "Mike Tice",
+        "position": "TE",
+        "g": "9",
+        "gs": "2",
+        "birthday": "1959-02-02",
+        "college": "Maryland"
+    },
+    {
+        "number": "--",
+        "playerName": "Daryl Turner",
+        "position": "WR",
+        "g": "16",
+        "gs": "12",
+        "birthday": "1961-12-15",
+        "college": "Michigan State"
+    },
+    {
+        "number": "--",
+        "playerName": "Byron Walker",
+        "position": "WR",
+        "g": "16",
+        "gs": "0",
+        "birthday": "1960-07-28",
+        "college": "Citadel"
+    },
+    {
+        "number": "--",
+        "playerName": "Curt Warner",
+        "position": "RB",
+        "g": "16",
+        "gs": "16",
+        "birthday": "1961-03-18",
+        "college": "Penn State"
+    },
+    {
+        "number": "--",
+        "playerName": "Jeff West",
+        "position": "P",
+        "g": "2",
+        "gs": "0",
+        "birthday": "1953-04-06",
+        "college": "Cincinnati"
+    },
+    {
+        "number": "--",
+        "playerName": "John Williams",
+        "position": "RB",
+        "g": "2",
+        "gs": "0",
+        "birthday": "1960-10-26",
+        "college": "Wisconsin"
+    },
+    {
+        "number": "--",
+        "playerName": "Charle Young",
+        "position": "TE",
+        "g": "14",
+        "gs": "14",
+        "birthday": "1951-02-05",
+        "college": "Southern California"
+    },
+    {
+        "number": "--",
+        "playerName": "Fredd Young",
+        "position": "LB",
+        "g": "16",
+        "gs": "13",
+        "birthday": "1961-11-14",
+        "college": "New Mexico State"
+    }
+]

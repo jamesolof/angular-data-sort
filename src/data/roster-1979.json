@@ -1,0 +1,461 @@
+[
+    {
+        "number": "--",
+        "playerName": "Sam Adkins",
+        "position": "QB",
+        "g": "--",
+        "gs": "--",
+        "birthday": "1955-05-21",
+        "college": "Wichita State"
+    },
+    {
+        "number": "--",
+        "playerName": "Steve August",
+        "position": "OT",
+        "g": "--",
+        "gs": "--",
+        "birthday": "1954-09-04",
+        "college": "Tulsa"
+    },
+    {
+        "number": "--",
+        "playerName": "Autry Beamon",
+        "position": "DB",
+        "g": "--",
+        "gs": "--",
+        "birthday": "1953-11-12",
+        "college": "Texas A&M-Commerce"
+    },
+    {
+        "number": "--",
+        "playerName": "Nick Bebout",
+        "position": "OT",
+        "g": "--",
+        "gs": "--",
+        "birthday": "1951-05-05",
+        "college": "Wyoming"
+    },
+    {
+        "number": "--",
+        "playerName": "Terry Beeson",
+        "position": "LB",
+        "g": "--",
+        "gs": "--",
+        "birthday": "1955-09-19",
+        "college": "Kansas"
+    },
+    {
+        "number": "--",
+        "playerName": "Mark Bell",
+        "position": "DE",
+        "g": "--",
+        "gs": "--",
+        "birthday": "1957-08-30",
+        "college": "Colorado State"
+    },
+    {
+        "number": "--",
+        "playerName": "Tony Benjamin",
+        "position": "RB",
+        "g": "--",
+        "gs": "--",
+        "birthday": "1955-10-27",
+        "college": "Duke"
+    },
+    {
+        "number": "--",
+        "playerName": "Dennis Boyd",
+        "position": "DE",
+        "g": "--",
+        "gs": "--",
+        "birthday": "1955-11-05",
+        "college": "Oregon State"
+    },
+    {
+        "number": "--",
+        "playerName": "Dave Brown",
+        "position": "DB",
+        "g": "--",
+        "gs": "--",
+        "birthday": "1953-01-16",
+        "college": "Michigan"
+    },
+    {
+        "number": "--",
+        "playerName": "Louis Bullard",
+        "position": "OT",
+        "g": "--",
+        "gs": "--",
+        "birthday": "1956-05-06",
+        "college": "Jackson State"
+    },
+    {
+        "number": "--",
+        "playerName": "Keith Butler",
+        "position": "LB",
+        "g": "--",
+        "gs": "--",
+        "birthday": "1956-05-16",
+        "college": "Memphis"
+    },
+    {
+        "number": "--",
+        "playerName": "Ron Coder",
+        "position": "OG",
+        "g": "--",
+        "gs": "--",
+        "birthday": "1954-05-24",
+        "college": "Penn State"
+    },
+    {
+        "number": "--",
+        "playerName": "Bill Cooke",
+        "position": "DT",
+        "g": "--",
+        "gs": "--",
+        "birthday": "1951-02-26",
+        "college": "Massachusetts"
+    },
+    {
+        "number": "--",
+        "playerName": "Pete Cronan",
+        "position": "LB",
+        "g": "--",
+        "gs": "--",
+        "birthday": "1955-01-13",
+        "college": "Boston College"
+    },
+    {
+        "number": "--",
+        "playerName": "Dan Doornink",
+        "position": "RB",
+        "g": "--",
+        "gs": "--",
+        "birthday": "1956-02-01",
+        "college": "Washington State"
+    },
+    {
+        "number": "--",
+        "playerName": "Don Dufek",
+        "position": "DB",
+        "g": "--",
+        "gs": "--",
+        "birthday": "1954-04-28",
+        "college": "Michigan"
+    },
+    {
+        "number": "--",
+        "playerName": "Carl Eller",
+        "position": "DE",
+        "g": "--",
+        "gs": "--",
+        "birthday": "1942-02-25",
+        "college": "Minnesota"
+    },
+    {
+        "number": "--",
+        "playerName": "Duke Fergerson",
+        "position": "WR",
+        "g": "--",
+        "gs": "--",
+        "birthday": "1954-04-21",
+        "college": "San Diego State"
+    },
+    {
+        "number": "--",
+        "playerName": "Jessie Green",
+        "position": "WR",
+        "g": "--",
+        "gs": "--",
+        "birthday": "1954-02-21",
+        "college": "Tulsa"
+    },
+    {
+        "number": "--",
+        "playerName": "Sammy Green",
+        "position": "LB",
+        "g": "--",
+        "gs": "--",
+        "birthday": "1954-10-12",
+        "college": "Florida"
+    },
+    {
+        "number": "--",
+        "playerName": "Tony Green",
+        "position": "RB",
+        "g": "--",
+        "gs": "--",
+        "birthday": "1956-09-26",
+        "college": "Florida"
+    },
+    {
+        "number": "--",
+        "playerName": "Bill Gregory",
+        "position": "DT",
+        "g": "--",
+        "gs": "--",
+        "birthday": "1949-12-14",
+        "college": "Wisconsin"
+    },
+    {
+        "number": "--",
+        "playerName": "Robert Hardy",
+        "position": "DT",
+        "g": "--",
+        "gs": "--",
+        "birthday": "1956-07-03",
+        "college": "Jackson State"
+    },
+    {
+        "number": "--",
+        "playerName": "John Harris",
+        "position": "DB",
+        "g": "--",
+        "gs": "--",
+        "birthday": "1956-06-13",
+        "college": "Arizona State"
+    },
+    {
+        "number": "--",
+        "playerName": "Efren Herrera",
+        "position": "K",
+        "g": "--",
+        "gs": "--",
+        "birthday": "1951-07-30",
+        "college": "UCLA"
+    },
+    {
+        "number": "--",
+        "playerName": "Al Hunter",
+        "position": "RB",
+        "g": "--",
+        "gs": "--",
+        "birthday": "1955-02-21",
+        "college": "Notre Dame"
+    },
+    {
+        "number": "--",
+        "playerName": "Michael Jackson",
+        "position": "LB",
+        "g": "--",
+        "gs": "--",
+        "birthday": "1957-07-15",
+        "college": "Washington"
+    },
+    {
+        "number": "--",
+        "playerName": "Kerry Justin",
+        "position": "DB",
+        "g": "--",
+        "gs": "--",
+        "birthday": "1955-05-03",
+        "college": "Oregon State"
+    },
+    {
+        "number": "--",
+        "playerName": "Art Kuehn",
+        "position": "C",
+        "g": "--",
+        "gs": "--",
+        "birthday": "1953-02-12",
+        "college": "UCLA"
+    },
+    {
+        "number": "--",
+        "playerName": "Steve Largent",
+        "position": "WR",
+        "g": "--",
+        "gs": "--",
+        "birthday": "1954-09-28",
+        "college": "Tulsa"
+    },
+    {
+        "number": "--",
+        "playerName": "Tom Lynch",
+        "position": "OG",
+        "g": "--",
+        "gs": "--",
+        "birthday": "1955-05-24",
+        "college": "Boston College"
+    },
+    {
+        "number": "--",
+        "playerName": "Sam McCullum",
+        "position": "WR",
+        "g": "--",
+        "gs": "--",
+        "birthday": "1952-11-30",
+        "college": "Montana State"
+    },
+    {
+        "number": "--",
+        "playerName": "Charles McShane",
+        "position": "LB",
+        "g": "--",
+        "gs": "--",
+        "birthday": "1954-01-04",
+        "college": "California Lutheran"
+    },
+    {
+        "number": "--",
+        "playerName": "Jeff Moore",
+        "position": "RB",
+        "g": "--",
+        "gs": "--",
+        "birthday": "1956-08-20",
+        "college": "Jackson State"
+    },
+    {
+        "number": "--",
+        "playerName": "Steve Myer",
+        "position": "QB",
+        "g": "--",
+        "gs": "--",
+        "birthday": "1954-07-17",
+        "college": "New Mexico"
+    },
+    {
+        "number": "--",
+        "playerName": "Bob Newton",
+        "position": "OG",
+        "g": "--",
+        "gs": "--",
+        "birthday": "1949-08-16",
+        "college": "Nebraska"
+    },
+    {
+        "number": "--",
+        "playerName": "Joe Norman",
+        "position": "LB",
+        "g": "--",
+        "gs": "--",
+        "birthday": "1956-10-15",
+        "college": "Indiana"
+    },
+    {
+        "number": "--",
+        "playerName": "Mike O'Brien",
+        "position": "DB",
+        "g": "--",
+        "gs": "--",
+        "birthday": "1956-04-25",
+        "college": "California"
+    },
+    {
+        "number": "--",
+        "playerName": "Brian Peets",
+        "position": "TE",
+        "g": "--",
+        "gs": "--",
+        "birthday": "1956-07-15",
+        "college": "Pacific"
+    },
+    {
+        "number": "--",
+        "playerName": "Larry Polowski",
+        "position": "LB",
+        "g": "--",
+        "gs": "--",
+        "birthday": "1957-09-15",
+        "college": "Boise State"
+    },
+    {
+        "number": "--",
+        "playerName": "Ernie Price",
+        "position": "DE",
+        "g": "--",
+        "gs": "--",
+        "birthday": "1950-09-20",
+        "college": "Texas A&M-Kingsville"
+    },
+    {
+        "number": "--",
+        "playerName": "Steve Raible",
+        "position": "WR",
+        "g": "--",
+        "gs": "--",
+        "birthday": "1954-06-02",
+        "college": "Georgia Tech"
+    },
+    {
+        "number": "--",
+        "playerName": "Jeff Sevy",
+        "position": "OT",
+        "g": "--",
+        "gs": "--",
+        "birthday": "1951-10-24",
+        "college": "California"
+    },
+    {
+        "number": "--",
+        "playerName": "Keith Simpson",
+        "position": "DB",
+        "g": "--",
+        "gs": "--",
+        "birthday": "1956-03-09",
+        "college": "Memphis"
+    },
+    {
+        "number": "--",
+        "playerName": "David Sims",
+        "position": "RB",
+        "g": "--",
+        "gs": "--",
+        "birthday": "1955-10-26",
+        "college": "Georgia Tech"
+    },
+    {
+        "number": "--",
+        "playerName": "Sherman Smith",
+        "position": "RB",
+        "g": "--",
+        "gs": "--",
+        "birthday": "1954-11-01",
+        "college": "Miami (OH)"
+    },
+    {
+        "number": "--",
+        "playerName": "Manu Tuiasosopo",
+        "position": "DE",
+        "g": "--",
+        "gs": "--",
+        "birthday": "1957-08-30",
+        "college": "UCLA"
+    },
+    {
+        "number": "--",
+        "playerName": "Herman Weaver",
+        "position": "P",
+        "g": "--",
+        "gs": "--",
+        "birthday": "1948-11-17",
+        "college": "Tennessee"
+    },
+    {
+        "number": "--",
+        "playerName": "Cornell Webster",
+        "position": "DB",
+        "g": "--",
+        "gs": "--",
+        "birthday": "1954-11-02",
+        "college": "Tulsa"
+    },
+    {
+        "number": "--",
+        "playerName": "John Yarno",
+        "position": "C",
+        "g": "--",
+        "gs": "--",
+        "birthday": "1954-12-17",
+        "college": "Idaho"
+    },
+    {
+        "number": "--",
+        "playerName": "Jim Zorn",
+        "position": "QB",
+        "g": "--",
+        "gs": "--",
+        "birthday": "1953-05-10",
+        "college": "Cal Poly-Pomona"
+    }
+]

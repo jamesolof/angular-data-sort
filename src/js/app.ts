@@ -2,17 +2,36 @@ namespace application {
 
   export class appController {
 
-    public number1: number = 0;
-    public number2: number = 0;
+    public startyear = 1976;
+    public endyear = 2016;
+    public years: number[] = [];
 
-    public results: number = 0;
+    public players: models.player[] = [];
 
-    constructor() {
+    static $inject = [
+      '$http'
+    ];
 
+    constructor(
+      private $http: ng.IHttpService
+    ) {
+      console.log(this.players)
+      let current = 0;
+      while(this.startyear + current <= this.endyear){
+        this.years[current] = this.startyear + current
+        current++;
+      }
     }
 
-    public getresults(){
-      this.results = this.number1 + this.number2;
+    public logcon(){
+      console.log("click");
+    }
+
+    public getPlayers(year: number): void {
+      this.$http.get(`data/roster-${year}.json`)
+        .then((result) => this.players = <models.player[]>result.data)
+        .catch((error) => console.log('no worke', error))
+        .finally(() => {});
     }
   }
 
