@@ -1,0 +1,12 @@
+# Third Party Files
+node_modules
+**/wwwroot/lib
+
+
+# Build Artifact Files
+bin
+obj
+
+*.js
+*.lock.json
+*.js.map
