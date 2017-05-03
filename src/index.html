@@ -8,64 +8,51 @@
     <link rel="stylesheet" href="lib/bootstrap/dist/css/bootstrap.css"></link>
 
   </head>
-  <body ng-controller="appController as vm">
-
-
+  <body ng-cloak ng-controller="appController as vm">
 
         <nav class="navbar navbar-inverse navbar-fixed-top">
             <div class="container">
                 <div class="navbar-header">
-                    <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false"
-                        aria-controls="navbar">
-                <span class="sr-only">Toggle navigation</span>
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-              </button>
-                    <a class="navbar-brand">Seahawks Players</a>
-                </div>
-                <div id="navbar" class="collapse navbar-collapse">
-
-                </div>
+                  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false"
+                    aria-controls="navbar">
+                  <span class="sr-only">Toggle navigation</span>
+                  <span class="icon-bar"></span>
+                  <span class="icon-bar"></span>
+                  <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand">Seahawks Players</a>
+              </div>
+              <div id="navbar" class="collapse navbar-collapse">
+                <ul class="nav navbar-nav">
+                  <li>
+                    <div class="dropdown">
+                      <button class="btn btn-primary dropdown-toggle" type="button" data-toggle="dropdown">{{vm.year}}
+                      <span class="caret"></span></button>
+                      <ul class="dropdown-menu scrollable-menu">
+                        <li ng-repeat="year in vm.years">
+                          <a ng-click="vm.getPlayers(year)">
+                            {{year}}
+                          </a>
+                        </li>
+                      </ul>
+                    </div>
+                  </li>
+                </ul>
             </div>
+        </div>
     </nav>
 
-    <div class="container">
-      <div class="row">
-
-      <div class="col-sm-6" id="Tabley">
-        <div class="dropdown">
-          <button class="btn btn-primary dropdown-toggle" type="button" data-toggle="dropdown">Team Year
-          <span class="caret"></span></button>
-          <ul class="dropdown-menu">
-            <li ng-repeat="year in vm.years">
-              <a ng-click="vm.getPlayers(year)">
-                {{year}}
-              </a>
-            </li>
-          </ul>
-        </div>
-      </div>
-
-      <div class="col-sm-6" id="Tabley">
-        <h5>Filter by<h5>
-        <label> College: <input ng-model="vm.search.college"></label></br>
-        <label> Position: <input ng-model="vm.search.position"></label></br>
-      </div>
-    </div>
-    </div>
-
-    <div id="Tabley">
+    <div id="Tabley" ng-hide="vm.isloading">
       <table class="table table-striped table-bordered table-hover">
         <thead>
           <tr>
             <th>Number</th>
             <th>Name</th>
-            <th>Position</th>
+            <th>Position  <input ng-model="vm.search.position"></th>
             <th>g</th>
             <th>gs</th>
             <th>birthday</th>
-            <th>college</th>
+            <th>college  <input ng-model="vm.search.position"></th>
           </tr>
         </thead>
         <tbody>

@@ -2,8 +2,11 @@ namespace application {
 
   export class appController {
 
+    public isLoading: boolean = false;
+
     public startyear = 1976;
     public endyear = 2016;
+    public year = "Select Year"
     public years: number[] = [];
 
     public players: models.player[] = [];
@@ -28,10 +31,13 @@ namespace application {
     }
 
     public getPlayers(year: number): void {
+      this.isLoading = true;
+      this.year = year.toString();
+
       this.$http.get(`data/roster-${year}.json`)
         .then((result) => this.players = <models.player[]>result.data)
         .catch((error) => console.log('no worke', error))
-        .finally(() => {});
+        .finally(() => this.isLoading = false);
     }
   }
 

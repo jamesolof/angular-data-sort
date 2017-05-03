@@ -7,6 +7,20 @@ body{
   height: 50px;
 }
 
+.dropdown{
+  padding-top: 7px;
+}
+
 #Tabley{
   padding: 30px;
+}
+
+.scrollable-menu {
+    height: auto;
+    max-height: 200px;
+    overflow-x: hidden;
+}
+
+[ng\:cloak], [ng-cloak], [data-ng-cloak], [x-ng-cloak], .ng-cloak, .x-ng-cloak {
+  display: none !important;
 }
