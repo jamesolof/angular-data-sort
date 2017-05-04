@@ -10,6 +10,8 @@ namespace application {
 
         public colleges: string[] = [];
         public positions: string[] = [];
+        public college: string = "Filter";
+        public positon: string = "Filter";
 
         public players: models.player[] = [];
 
@@ -28,23 +30,23 @@ namespace application {
             }
         }
 
+        public logcon(){
+            console.log("click");
+        }
+
         public getPlayers(year: number): void {
             this.isLoading = true;
             this.year = year.toString();
 
             this.$http.get(`data/roster-${year}.json`)
-            .then((result) => {
-                    this.colleges = [];
-                    this.positions = [];
+	            .then((result) => {
 	                this.players = <models.player[]>result.data;
 	                for( let player of this.players){
                         if(this.colleges.indexOf(player.college) == -1){
                             this.colleges.push(player.college);
                         }
-                        if(this.positions.indexOf(player.position) == -1){
-                            this.positions.push(player.position);
-                        }
                     }
+                    console.log(this.colleges);
 	            })
                 .catch((error) => console.log('no worke', error))
                 .finally(() => this.isLoading = false);

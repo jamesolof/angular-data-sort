@@ -48,11 +48,27 @@
           <tr>
             <th>Number</th>
             <th>Name</th>
-            <th>Position  <input ng-model="vm.search.position"></th>
+            <th>
+                <form name="positionSelect">
+                    <label for="pSelect">Position</select>
+                    <select name="pSelect" id="pSelect" ng-model="vm.search.position">
+                        <option value=""></option>
+                        <option ng-repeat="position in vm.positions" value="{{position}}">{{position}}</option>
+                    </select>
+                </form>
+            </th>
             <th>g</th>
             <th>gs</th>
             <th>birthday</th>
-            <th>college  <input ng-model="vm.search.position"></th>
+            <th>
+                <form name="collegeSelect">
+                    <label for="repeatSelect">College</select>
+                    <select name="repeatSelect" id="repeatSelect" ng-model="vm.search.college">
+                        <option value=""></option>
+                        <option ng-repeat="college in vm.colleges" value="{{college}}">{{college}}</option>
+                    </select>
+                </form>
+            <th>
           </tr>
         </thead>
         <tbody>
